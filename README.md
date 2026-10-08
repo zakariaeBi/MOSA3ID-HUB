@@ -78,7 +78,7 @@ You only need a modern web browser. No installation required.
 
 bash
 # If you're running it locally:
-git clone https://github.com/your-username/mousa3id-hub.git
+git clone https://github.com/zakariaeBi/MOSA3ID-HUB.git
 cd mousa3id-hub
 Then open index.html in your browser — or use a live server:
 
