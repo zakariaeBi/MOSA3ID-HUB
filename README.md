@@ -15,16 +15,6 @@ Getting Started
 
 How to Use
 
-Tech Stack
-
-Project Structure
-
-Contributing
-
-License
-
-Contact
-
 🧭 About the Project
 MOUSA3iD HUB is a dual-purpose web platform that combines two essential pillars of personal performance:
 
